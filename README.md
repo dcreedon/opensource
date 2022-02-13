@@ -2,6 +2,6 @@
 Open Source Demo Repository
 
 ---
-[title](https://github.com/dcreedon/opensource.git)
+[My Open Source Repo](https://github.com/dcreedon/opensource.git)
 ---
 # JC
