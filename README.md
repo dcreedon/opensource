@@ -1,10 +1,3 @@
----
-
----
-[My Open Source Repo Project](https://github.com/dcreedon/opensource.git)
----
-
-
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
@@ -16,11 +9,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![GitHub issues](https://img.shields.io/github/issues/dcreedon/opensource)](https://github.com/dcreedon/opensource/issues)
-[![GitHub forks](https://img.shields.io/github/forks/dcreedon/opensource)](https://github.com/dcreedon/opensource/network)
-[![GitHub stars](https://img.shields.io/github/stars/dcreedon/opensource)](https://github.com/dcreedon/opensource/stargazers)
-[![GitHub license](https://img.shields.io/github/license/dcreedon/opensource)](https://github.com/dcreedon/opensource/blob/main/LICENSE)
+[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -198,21 +193,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
@@ -222,5 +204,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/damiancreedon/
 [product-screenshot]: images/screenshot.png
+
+<!--
+[![GitHub ISSUES](https://img.shields.io/github/issues/dcreedon/opensource)](https://github.com/dcreedon/opensource/issues)
+[![GitHub FORKS](https://img.shields.io/github/forks/dcreedon/opensource)](https://github.com/dcreedon/opensource/network)
+[![GitHub STARS](https://img.shields.io/github/stars/dcreedon/opensource)](https://github.com/dcreedon/opensource/stargazers)
+[![GitHub LICENSE](https://img.shields.io/github/license/dcreedon/opensource)](https://github.com/dcreedon/opensource/blob/main/LICENSE)
+
+-->
+
